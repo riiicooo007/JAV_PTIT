@@ -2,7 +2,7 @@ import java.util.*;
 
 public class JavaProject{
     static Scanner sc=new Scanner(System.in);
-    static int n=sc.nextInt();
+    static int n=sc.nextInt(); 
     static int[] A=new int[2000001];
     static int[] B=new int[2000001];
     public static void TimUocNhoNhat(){
