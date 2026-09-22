@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class JavaProject{
+public class J01013{
     static Scanner sc=new Scanner(System.in);
     static int n=sc.nextInt(); 
     static int[] A=new int[2000001];
