@@ -1,8 +1,7 @@
-package com.mycompany.javaproject;
+
 import java.util.*;
-import java.io.*;
-//import java.math.*;
-public class JavaProject {
+
+public class J01024{
     
     public static void main(String[] args)  {
 //        Scanner sc=new Scanner(new FileReader("Hello.txt"));
